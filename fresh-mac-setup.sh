@@ -17,6 +17,8 @@
  brew install tmux
  brew install ripgrep
  brew install node
+ brew tap thecasualcoder/stable
+ brew install kube-tmuxp
  xcode-select --install
 
  touch ~/.tmux.conf
