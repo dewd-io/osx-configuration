@@ -17,6 +17,7 @@
  brew install tmux
  brew install ripgrep
  brew install node
+ brew install --cask flux
  xcode-select --install
 
  touch ~/.tmux.conf
